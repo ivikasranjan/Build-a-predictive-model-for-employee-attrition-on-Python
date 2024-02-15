@@ -34,20 +34,6 @@ The dataset used in this project includes various employee attributes such as ag
 - Python 3.x
 - Pip package manager
 
-### Installation
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/your-username/employee-attrition-predictor.git
-   ```
-2. Navigate to the project directory:
-   ```
-   cd employee-attrition-predictor
-   ```
-3. Install the required packages:
-   ```
-   pip install -r requirements.txt
-   ```
 
 ### Usage
 
