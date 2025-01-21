@@ -1,4 +1,4 @@
-# Build-a-predictive-model-for-employee-attrition-on-Python
+# Employee Attrition Prediction
 
 Certainly! Below is a sample README file for a GitHub repository dedicated to a predictive model for employee attrition using Python. This README is designed to provide an overview of the project, its objectives, the technologies used, how to set it up, and how to contribute.
 
